@@ -1,0 +1,68 @@
+# Gluten Free Travel Card
+
+> A free mobile app and website providing gluten-free restaurant cards in
+> 50 languages for people with celiac disease and gluten intolerance.
+
+- Price: free. No ads, no account, no in-app purchases, no paid tiers.
+- Privacy: no data collection, no analytics, no tracking.
+- Platforms: iOS and Android.
+- Works fully offline; can read the card aloud in the local language; exports to PDF.
+- Made by Christoph Sterkel, who has celiac disease.
+
+## Key pages
+- [Home and all languages](https://walbourg1.github.io/gluten-free-travel-card/): overview, FAQ, links to every card
+- [Privacy policy](https://walbourg1.github.io/gluten-free-travel-card/privacy-policy.html)
+- App Store: https://apps.apple.com/app/id6786020512
+- Google Play: https://play.google.com/store/apps/details?id=com.glutenfreetravelcard.app
+
+## Cards
+- [Amharic (አማርኛ)](https://walbourg1.github.io/gluten-free-travel-card/cards/amharic.html)
+- [Arabic (العربية)](https://walbourg1.github.io/gluten-free-travel-card/cards/arabic.html)
+- [Bosnian (Bosanski)](https://walbourg1.github.io/gluten-free-travel-card/cards/bosnian.html)
+- [Brazilian Portuguese (Português (Brasil))](https://walbourg1.github.io/gluten-free-travel-card/cards/brazilian-portuguese.html)
+- [Bulgarian (Български)](https://walbourg1.github.io/gluten-free-travel-card/cards/bulgarian.html)
+- [Cantonese (廣東話)](https://walbourg1.github.io/gluten-free-travel-card/cards/cantonese.html)
+- [Catalan (Català)](https://walbourg1.github.io/gluten-free-travel-card/cards/catalan.html)
+- [Chinese (中文（普通话）)](https://walbourg1.github.io/gluten-free-travel-card/cards/chinese.html)
+- [Croatian (Hrvatski)](https://walbourg1.github.io/gluten-free-travel-card/cards/croatian.html)
+- [Czech (Čeština)](https://walbourg1.github.io/gluten-free-travel-card/cards/czech.html)
+- [Danish (Dansk)](https://walbourg1.github.io/gluten-free-travel-card/cards/danish.html)
+- [Dutch (Nederlands)](https://walbourg1.github.io/gluten-free-travel-card/cards/dutch.html)
+- [English (English)](https://walbourg1.github.io/gluten-free-travel-card/cards/english.html)
+- [Estonian (Eesti)](https://walbourg1.github.io/gluten-free-travel-card/cards/estonian.html)
+- [Finnish (Suomi)](https://walbourg1.github.io/gluten-free-travel-card/cards/finnish.html)
+- [Flemish (Vlaams)](https://walbourg1.github.io/gluten-free-travel-card/cards/flemish.html)
+- [French (Français)](https://walbourg1.github.io/gluten-free-travel-card/cards/french.html)
+- [German (Deutsch)](https://walbourg1.github.io/gluten-free-travel-card/cards/german.html)
+- [Greek (Ελληνικά)](https://walbourg1.github.io/gluten-free-travel-card/cards/greek.html)
+- [Hebrew (עברית)](https://walbourg1.github.io/gluten-free-travel-card/cards/hebrew.html)
+- [Hindi (हिन्दी)](https://walbourg1.github.io/gluten-free-travel-card/cards/hindi.html)
+- [Hungarian (Magyar)](https://walbourg1.github.io/gluten-free-travel-card/cards/hungarian.html)
+- [Icelandic (Íslenska)](https://walbourg1.github.io/gluten-free-travel-card/cards/icelandic.html)
+- [Indonesian (Bahasa Indonesia)](https://walbourg1.github.io/gluten-free-travel-card/cards/indonesian.html)
+- [Italian (Italiano)](https://walbourg1.github.io/gluten-free-travel-card/cards/italian.html)
+- [Japanese (日本語)](https://walbourg1.github.io/gluten-free-travel-card/cards/japanese.html)
+- [Korean (한국어)](https://walbourg1.github.io/gluten-free-travel-card/cards/korean.html)
+- [Latvian (Latviešu)](https://walbourg1.github.io/gluten-free-travel-card/cards/latvian.html)
+- [Lithuanian (Lietuvių)](https://walbourg1.github.io/gluten-free-travel-card/cards/lithuanian.html)
+- [Malay (Bahasa Melayu)](https://walbourg1.github.io/gluten-free-travel-card/cards/malay.html)
+- [Maltese (Malti)](https://walbourg1.github.io/gluten-free-travel-card/cards/maltese.html)
+- [Mongolian (Монгол)](https://walbourg1.github.io/gluten-free-travel-card/cards/mongolian.html)
+- [Nepali (नेपाली)](https://walbourg1.github.io/gluten-free-travel-card/cards/nepali.html)
+- [Norwegian (Norsk)](https://walbourg1.github.io/gluten-free-travel-card/cards/norwegian.html)
+- [Polish (Polski)](https://walbourg1.github.io/gluten-free-travel-card/cards/polish.html)
+- [Portuguese (Português)](https://walbourg1.github.io/gluten-free-travel-card/cards/portuguese.html)
+- [Romanian (Română)](https://walbourg1.github.io/gluten-free-travel-card/cards/romanian.html)
+- [Russian (Русский)](https://walbourg1.github.io/gluten-free-travel-card/cards/russian.html)
+- [Serbian (Српски)](https://walbourg1.github.io/gluten-free-travel-card/cards/serbian.html)
+- [Slovak (Slovenčina)](https://walbourg1.github.io/gluten-free-travel-card/cards/slovak.html)
+- [Slovenian (Slovenščina)](https://walbourg1.github.io/gluten-free-travel-card/cards/slovenian.html)
+- [Spanish (Español)](https://walbourg1.github.io/gluten-free-travel-card/cards/spanish.html)
+- [Spanish (Argentina) (Español (Argentina))](https://walbourg1.github.io/gluten-free-travel-card/cards/spanish-argentina.html)
+- [Swedish (Svenska)](https://walbourg1.github.io/gluten-free-travel-card/cards/swedish.html)
+- [Thai (ภาษาไทย)](https://walbourg1.github.io/gluten-free-travel-card/cards/thai.html)
+- [Turkish (Türkçe)](https://walbourg1.github.io/gluten-free-travel-card/cards/turkish.html)
+- [Ukrainian (Українська)](https://walbourg1.github.io/gluten-free-travel-card/cards/ukrainian.html)
+- [Urdu (اردو)](https://walbourg1.github.io/gluten-free-travel-card/cards/urdu.html)
+- [Uzbek (Oʻzbek)](https://walbourg1.github.io/gluten-free-travel-card/cards/uzbek.html)
+- [Vietnamese (Tiếng Việt)](https://walbourg1.github.io/gluten-free-travel-card/cards/vietnamese.html)
