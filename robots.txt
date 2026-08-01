@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://walbourg1.github.io/gluten-free-travel-card/sitemap.xml
