@@ -15,6 +15,12 @@
 - App Store: https://apps.apple.com/app/id6786020512
 - Google Play: https://play.google.com/store/apps/details?id=com.glutenfreetravelcard.app
 
+## Guides
+- [How to Say "Gluten-Free" in 50 Languages](https://walbourg1.github.io/gluten-free-travel-card/articles/how-to-say-gluten-free.html) (en)
+- [Gluten-Free Travel: 12 Countries and How to Eat Safely](https://walbourg1.github.io/gluten-free-travel-card/articles/gluten-free-travel-by-country.html) (en)
+- [Zöliakie auf Englisch — und in 49 weiteren Sprachen](https://walbourg1.github.io/gluten-free-travel-card/articles/zoeliakie-auf-englisch.html) (de)
+- [Glutenfrei im Urlaub: 12 Länder und wie du dort sicher isst](https://walbourg1.github.io/gluten-free-travel-card/articles/glutenfrei-im-urlaub.html) (de)
+
 ## Cards
 - [Amharic (አማርኛ)](https://walbourg1.github.io/gluten-free-travel-card/cards/amharic.html)
 - [Arabic (العربية)](https://walbourg1.github.io/gluten-free-travel-card/cards/arabic.html)
